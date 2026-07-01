@@ -1,5 +1,5 @@
 # Сәкенов Абдуррауф Саматұлы
-**Javascript fullstack developer, ios swift developer**
+**Javascript Fullstack Developer, ios swift Developer, Frontend React Developer, Frontend NextJS Developer, Backend ExpressJS Developer, Backend NestJS Developer, React Native developer, Mobile Applications Developer**
 
 ---
 
