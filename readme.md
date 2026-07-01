@@ -1,5 +1,14 @@
 # Сәкенов Абдуррауф Саматұлы
-**JavaScript / Мобильный разработчик (Javascript fullstack developer, ios swift developer)**
+**Javascript fullstack developer, ios swift developer**
+
+---
+
+## 🗺 Навигация
+* [📞 Контакты & Информация](#-контакты--информация)
+* [🛠 Технические навыки](#-технические-навыки)
+* [💼 Опыт работы](#-опыт-работы)
+* [🎯 Профиль и Soft Skills](#-профиль-и-soft-skills)
+* [📁 Проекты](#-проекты)
 
 ---
 
@@ -52,15 +61,6 @@
 
 ---
 
-## 💡 Кейсы и AI-автоматизация
-
-* **Инструменты:** Использование Claude code, Antigravity, Codex, Opencode, Cursor. Внедрение и автоматизация с моделями Gemini 3.1/3.5, QWEN, Ollama.
-* **Mizucare (Университетский MVP за неделю):** Сканирование лица и анализ кожи. Интегрировал Gemini API (передача фото + опроса, обработка структурированного JSON-ответа с рекомендациями). Написал Python-скрипт для парсинга интернет-магазинов, заполнивший базу данных 443 продуктами.
-* **Генерация данных:** За 15 минут написал Python-скрипт с помощью AI, заполнивший Google Форму 2000 уникальными ответами (имитация реальных пользователей).
-* **Computer Vision:** Создал и монетизировал как сервис локальную офлайн-систему компьютерного зрения для подсчета автомобилей в помещении.
-
----
-
 ## 🎯 Профиль и Soft Skills
 
 * **О себе:** Родом из Актау, живу в Алматы. Опыт в программировании — 4 года. Глубоко понимаю устройство JS/TS, ООП. Разрабатываю серверные/клиентские части, базы данных, WebSockets, Telegram-ботов. Понимаю работу FinTech-сферы (биржи, стаканы, ордеры, инвестиции, блокчейн, налоговые декларации). Стремлюсь развиваться в банках, фондах и брокерских компаниях.
@@ -75,3 +75,4 @@
 * **Tekser App** — [tekser](./projects/tekser/readme.md) `Mobile` `React Native` `Screenshots`
 * **Tekser Landing** — [tekser-landing](./projects/tekser-landing/readme.md) `Web` `Next.js` `Screenshots` `Production Link`
 * **Wagwan** — [wagwan](./projects/wagwan/readme.md) `Mobile` `React Native` `Screenshots`
+* **Mizucare** — [mizu-care](./projects/mizu-care/readme.md) `Web` `Next.js` `Screenshots` `Production Link` `Gemini AI` `source code`
