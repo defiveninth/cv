@@ -99,13 +99,16 @@
 
 ## 📁 Проекты
 
-* **[Электронная очередь Нархоз](./projects/e-queue/readme.md)** — `Web Next.js` `Screenshots` `Production Link`
-* **[Tekser App](./projects/tekser/readme.md)** — `Mobile React Native` `Screenshots` `Gemini AI`
-* **[Tekser Landing](./projects/tekser-landing/readme.md)** — `Web Next.js` `Screenshots` `Production Link`
-* **[Wagwan](./projects/wagwan/readme.md)** — `Mobile React Native NestJS` `Screenshots`
-* **[Mizucare](./projects/mizu-care/readme.md)** — `Web Fullstack Next.js` `Screenshots` `Production Link` `Gemini AI` `Source Code`
-* **[Book Table](./projects/book-table/readme.md)** — `Mobile Swift` `Screenshots` `Source Code`
-* **[Smart Parking](./projects/smart-parking/readme.md)** — `Web Fullstack Next.js Express SQLite` `Screenshots` `Source Code`
+* **[Электронная очередь Нархоз](./projects/e-queue/readme.md)** — `Screenshots` `Production Link` `Web Next.js` 
+* **[Tekser App](./projects/tekser/readme.md)** — `Screenshots` `Mobile React Native` `Gemini AI`
+* **[Tekser Landing](./projects/tekser-landing/readme.md)** — `Screenshots` `Production Link` `Web Next.js` 
+* **[Wagwan](./projects/wagwan/readme.md)** — `Screenshots` `Mobile React Native NestJS` 
+* **[Mizucare](./projects/mizu-care/readme.md)** — `Screenshots` `Source Code` `Production Link` `Web Fullstack Next.js` `Gemini AI`
+* **[Book Table](./projects/book-table/readme.md)** — `Screenshots` `Source Code` `Mobile Swift`
+* **[Smart Parking](./projects/smart-parking/readme.md)** — `Screenshots` `Source Code` `Web Fullstack Next.js Express SQLite` 
+* **[Smart Parking AI CV](./projects/parking-count/readme.md)** — `Screenshots` `Source Code` `YOLO Computer Vision Python` 
+* **[SenseLab](./projects/senselab/readme.md)** — `Screenshots` `Source Code` `Web NextJs` `Gemini AI`
+* **[Nextgen blogpost](./projects/nextgen-blogpost/readme.md)** — `Screenshots` `Source Code` `Web NextJs Fullstack`
 
 > **Расшифровка тегов:**
 > * `Web` / `Mobile` / `Server` — тип платформы или архитектурного слоя.
