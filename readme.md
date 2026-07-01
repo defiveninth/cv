@@ -67,7 +67,9 @@
 * **Преимущества:** Креативность и продуктовое мышление, сильные навыки Problem Solving через обсуждение. Нацелен на командную коммуникацию, всегда на связи (не игнорирую чаты). Стрессоустойчив к потокам задач, занимаюсь спортом.
 * **Образование:** Университет Нархоз, 4 курс, специальность «IT, Digital Engineer» (неоконченное высшее).
 
+---
+
 ## 📁 Проекты
 
-* **Электронная очередь Нархоз** - [e-queue](./projects/e-queue/README.md)
-* **Tekser** - [e-queue](./projects/e-queue/README.md)
+* **Электронная очередь Нархоз** — [e-queue](./projects/e-queue/README.md) `Nextjs` `Screenshots` `Production Link`
+* **Tekser** — [tekser](./projects/tekser/README.md) `React Native mobile app` `Screenshots`
