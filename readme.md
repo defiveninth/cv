@@ -71,5 +71,7 @@
 
 ## 📁 Проекты
 
-* **Электронная очередь Нархоз** — [e-queue](./projects/e-queue/readme.md) `Nextjs` `Screenshots` `Production Link`
-* **Tekser** — [tekser](./projects/tekser/readme.md) `React Native mobile app` `Screenshots`
+* **Электронная очередь Нархоз** — [e-queue](https://www.google.com/search?q=./projects/e-queue/readme.md) `Web` `Next.js` `Screenshots` `Production Link`
+* **Tekser App** — [tekser](https://www.google.com/search?q=./projects/tekser/readme.md) `Mobile` `React Native` `Screenshots`
+* **Tekser Landing** — [tekser-landing](https://www.google.com/search?q=./projects/tekser-landing/readme.md) `Web` `Next.js` `Screenshots` `Production Link`
+* **Wagwan** — [wagwan](https://www.google.com/search?q=./projects/wagwan/readme.md) `Mobile` `React Native` `Screenshots`
