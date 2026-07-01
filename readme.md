@@ -99,16 +99,27 @@
 
 ## 📁 Проекты
 
-* **[Электронная очередь Нархоз](./projects/e-queue/readme.md)** — `Screenshots` `Production Link` `Web Next.js` 
-* **[Tekser App](./projects/tekser/readme.md)** — `Screenshots` `Mobile React Native` `Gemini AI`
-* **[Tekser Landing](./projects/tekser-landing/readme.md)** — `Screenshots` `Production Link` `Web Next.js` 
-* **[Wagwan](./projects/wagwan/readme.md)** — `Screenshots` `Mobile React Native NestJS` 
-* **[Mizucare](./projects/mizu-care/readme.md)** — `Screenshots` `Source Code` `Production Link` `Web Fullstack Next.js` `Gemini AI`
-* **[Book Table](./projects/book-table/readme.md)** — `Screenshots` `Source Code` `Mobile Swift`
-* **[Smart Parking](./projects/smart-parking/readme.md)** — `Screenshots` `Source Code` `Web Fullstack Next.js Express SQLite` 
-* **[Smart Parking AI CV](./projects/parking-count/readme.md)** — `Screenshots` `Source Code` `YOLO Computer Vision Python` 
-* **[SenseLab](./projects/senselab/readme.md)** — `Screenshots` `Source Code` `Web NextJs` `Gemini AI`
-* **[Nextgen blogpost](./projects/nextgen-blogpost/readme.md)** — `Screenshots` `Source Code` `Web NextJs Fullstack`
+### Web Apps
+* **[Электронная очередь Нархоз Web App](./projects/e-queue/readme.md)** — `Screenshots` `Production Link` `Next.js` 
+* **[Tekser Landing Web App](./projects/tekser-landing/readme.md)** — `Screenshots` `Production Link` `Next.js` 
+* **[Mizucare Web App](./projects/mizu-care/readme.md)** — `Screenshots` `Source Code` `Production Link` `Web Fullstack Next.js` `Gemini AI`
+* **[Smart Parking Web App](./projects/smart-parking/readme.md)** — `Screenshots` `Source Code` `Next.js` 
+* **[SenseLab Web App](./projects/senselab/readme.md)** — `Screenshots` `Source Code` `NextJs` `Gemini AI`
+* **[Nextgen blogpost Web App](./projects/nextgen-blogpost/readme.md)** — `Screenshots` `Source Code` `NextJs` `PSQL`
+* **[TakeQuiz Web App](https://github.com/defiveninth/quiz-app-front/blob/master/README.md)** — `Screenshots` `Source Code` `NextJS`
+
+### Mobile Apps
+* **[Tekser Mobile App](./projects/tekser/readme.md)** — `Screenshots` `React Native` `Gemini AI`
+* **[Wagwan Mobile App](./projects/wagwan/readme.md)** — `Screenshots` `React Native` 
+* **[Book Table Mobile App](./projects/book-table/readme.md)** — `Screenshots` `Source Code` `Swift`
+
+### Server Apps
+* **[Book Table Server App](https://github.com/defiveninth/rrs-mobile/blob/main/rrs-server/README.md)** — `Source Code` `Documentation` `ExpressJS` `SQLite`
+* **[Smart Parking Server App](https://github.com/dilfuza00/parking-app/blob/main/server/README.md)** — `Source Code` `Documentation` `ExpressJS` `SQLite`
+* **[TakeQuiz Server App](https://github.com/defiveninth/quiz-app-back/blob/new-branch/README.md)** — `Source Code` `Documentation` `Nestjs` `SMTP` `Prisma` `PSQL` 
+
+### Terminal Apps
+* **[Smart Parking AI CV](./projects/parking-count/readme.md)** — `Screenshots` `Source Code` `YOLO openCV Python` 
 
 > **Расшифровка тегов:**
 > * `Web` / `Mobile` / `Server` — тип платформы или архитектурного слоя.
