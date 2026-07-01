@@ -71,8 +71,20 @@
 
 ## 📁 Проекты
 
-* **Электронная очередь Нархоз** — [e-queue](./projects/e-queue/readme.md) `Web` `Next.js` `Screenshots` `Production Link`
-* **Tekser App** — [tekser](./projects/tekser/readme.md) `Mobile` `React Native` `Screenshots`
-* **Tekser Landing** — [tekser-landing](./projects/tekser-landing/readme.md) `Web` `Next.js` `Screenshots` `Production Link`
-* **Wagwan** — [wagwan](./projects/wagwan/readme.md) `Mobile` `React Native` `Screenshots`
-* **Mizucare** — [mizu-care](./projects/mizu-care/readme.md) `Web` `Next.js` `Screenshots` `Production Link` `Gemini AI` `source code`
+
+* **Электронная очередь Нархоз** — [e-queue](./projects/e-queue/readme.md) `Web Next.js` `Screenshots` `Production Link`
+* **Tekser App** — [tekser](./projects/tekser/readme.md) `Mobile React Native` `Screenshots` `Gemini AI`
+* **Tekser Landing** — [tekser-landing](./projects/tekser-landing/readme.md) `Web Next.js` `Screenshots` `Production Link`
+* **Wagwan** — [wagwan](./projects/wagwan/readme.md) `Mobile React Native NestJS` `Screenshots`
+* **Mizucare** — [mizu-care](./projects/mizu-care/readme.md) `Web Fullstack Next.js` `Screenshots` `Production Link` `Gemini AI` `Source Code`
+* **Book Table** — [book-table](./projects/book-table/readme.md) `Mobile Swift` `Screenshots` `Source Code`
+
+> **Расшифровка тегов:**
+> * `Web` / `Mobile` / `Server` — тип платформы или архитектурного слоя.
+> * `Next.js` / `React Native` / `Swift` / `NestJS` — основной технологический стек.
+> * `Screenshots` — в документации проекта присутствуют скриншоты интерфейса.
+> * `Production Link` — проект развернут и доступен по живой ссылке (активный продакшн).
+> * `Source Code` — открытый исходный код (ссылка на публичный репозиторий).
+> * `Gemini AI` — интеграция искусственного интеллекта на базе моделей Gemini.
+
+---
