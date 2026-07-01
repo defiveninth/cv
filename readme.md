@@ -34,7 +34,7 @@
 * **Backend-разработка**
   * **Фреймворки:** NestJS, Fastify, Express, FastAPI (Python)
   * **ORM / Database Tools:** Prisma, TypeORM
-  * **Базы данных:** PostgreSQL, MySQL, Redis (кэширование, сессии)
+  * **Базы данных:** PostgreSQL, MySQL, SQLite, JSONDB, Redis (кэширование, сессии)
 
 * **Архитектура & Аутентификация**
   * **Протоколы и подходы:** RESTful APIs, GraphQL, WebSockets (real-time), MVC, Microservices, HTTP/HTTPS
@@ -99,17 +99,17 @@
 
 ## 📁 Проекты
 
-
-* **Электронная очередь Нархоз** — [e-queue](./projects/e-queue/readme.md) `Web Next.js` `Screenshots` `Production Link`
-* **Tekser App** — [tekser](./projects/tekser/readme.md) `Mobile React Native` `Screenshots` `Gemini AI`
-* **Tekser Landing** — [tekser-landing](./projects/tekser-landing/readme.md) `Web Next.js` `Screenshots` `Production Link`
-* **Wagwan** — [wagwan](./projects/wagwan/readme.md) `Mobile React Native NestJS` `Screenshots`
-* **Mizucare** — [mizu-care](./projects/mizu-care/readme.md) `Web Fullstack Next.js` `Screenshots` `Production Link` `Gemini AI` `Source Code`
-* **Book Table** — [book-table](./projects/book-table/readme.md) `Mobile Swift` `Screenshots` `Source Code`
+* **[Электронная очередь Нархоз](./projects/e-queue/readme.md)** — `Web Next.js` `Screenshots` `Production Link`
+* **[Tekser App](./projects/tekser/readme.md)** — `Mobile React Native` `Screenshots` `Gemini AI`
+* **[Tekser Landing](./projects/tekser-landing/readme.md)** — `Web Next.js` `Screenshots` `Production Link`
+* **[Wagwan](./projects/wagwan/readme.md)** — `Mobile React Native NestJS` `Screenshots`
+* **[Mizucare](./projects/mizu-care/readme.md)** — `Web Fullstack Next.js` `Screenshots` `Production Link` `Gemini AI` `Source Code`
+* **[Book Table](./projects/book-table/readme.md)** — `Mobile Swift` `Screenshots` `Source Code`
+* **[Smart Parking](./projects/smart-parking/readme.md)** — `Web Fullstack Next.js Express SQLite` `Screenshots` `Source Code`
 
 > **Расшифровка тегов:**
 > * `Web` / `Mobile` / `Server` — тип платформы или архитектурного слоя.
-> * `Next.js` / `React Native` / `Swift` / `NestJS` — основной технологический стек.
+> * `Next.js` / `React Native` / `Swift` / `NestJS` / `Express` — основной технологический стек.
 > * `Screenshots` — в документации проекта присутствуют скриншоты интерфейса.
 > * `Production Link` — проект развернут и доступен по живой ссылке (активный продакшн).
 > * `Source Code` — открытый исходный код (ссылка на публичный репозиторий).
