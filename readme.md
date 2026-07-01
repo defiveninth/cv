@@ -26,15 +26,43 @@
 
 ## 🛠 Технические навыки
 
-* **Языки:** JavaScript (ES6), TypeScript, Swift, HTML5, CSS3
-* **Backend JS:** Express, Fastify, NestJS | Prisma, TypeORM | PostgreSQL, MySQL, Redis (caching)
-* **Архитектура & Auth:** RESTful APIs, HTTP, MVC, Microservices, GraphQL | NextAuth, JWT, Session-based, 3rd party providers
-* **Frontend Web:** React, Next.js | Tailwind CSS, shadcn/ui, Ant Design, Figma | lucide-react, react-icons, Vercel | Context, Redux, i18n, hook-form
-* **Мобильная разработка:** React Native (Expo), SwiftUI
-  * Создание экранов, страниц, компонентов и имплементация авторизации
-  * Взаимодействие с сервером (HTTP, GraphQL, WebSockets)
-  * Мультиязычность (i18n), темная/светлая темы, работа с геолокацией и камерой
-* **DevOps & Инструменты:** Git, GitHub, GitLab, npm/yarn, Docker, macOS (MacBook)
+* **Языки программирования**
+  * Глубокий знание: JavaScript (ES6+), TypeScript, Swift
+  * HTML5, CSS3
+  * Базовый опыт: Python, Java, MQL5
+
+* **Backend-разработка**
+  * **Фреймворки:** NestJS, Fastify, Express, FastAPI (Python)
+  * **ORM / Database Tools:** Prisma, TypeORM
+  * **Базы данных:** PostgreSQL, MySQL, Redis (кэширование, сессии)
+
+* **Архитектура & Аутентификация**
+  * **Протоколы и подходы:** RESTful APIs, GraphQL, WebSockets (real-time), MVC, Microservices, HTTP/HTTPS
+  * **Авторизация:** JWT, NextAuth, Session-based auth, Интеграция сторонних провайдеров (OAuth / 3rd party)
+
+* **Frontend Web**
+  * **Фреймворки:** React, Next.js (App / Pages Router)
+  * **Стилизация & UI:** Tailwind CSS, shadcn/ui, Ant Design, Figma
+  * **Управление состоянием:** React Context API, Redux
+  * **Инструменты & Деплой:** React Hook Form, lucide-react, react-icons, i18n (мультиязычность), Vercel
+
+* **Мобильная разработка**
+  * **Технологии:** React Native (Expo), SwiftUI (iOS native)
+  * **Компоненты & UI:** Верстка экранов любой сложности, темная/светлая темы (Theme Switcher), анимации
+  * **Функционал:** Интеграция Native API (геолокация, камера), мультиязычность (i18n), обработка push-уведомлений
+  * **Клиент-сервер:** Синхронизация данных через HTTP, GraphQL и WebSockets
+
+* **AI Инструменты & Автоматизация (AI-Driven Development)**
+  * **Среды разработки & Ассистенты:** Cursor, Claude Code, GitHub Copilot, Codex, OpenCode, Antigravity
+  * **Интеграция моделей (LLM API):** Работа и автоматизация процессов на базе Gemini 3.1/3.5, QWEN, ChatGPT, Claude
+  * **Локальный ИИ:** Развертывание и использование моделей через Ollama
+  * **Скрипты:** Написание Python/JS скриптов для парсинга данных, автоматического заполнения баз данных и имитации действий пользователей
+
+* **DevOps & Инструменты**
+  * **Контроль версий:** Git, GitHub, GitLab
+  * **Пакетные менеджеры:** npm, yarn, pnpm
+  * **Контейнеризация:** Docker
+  * **Окружение:** macOS (MacBook Pro)
 
 ---
 
